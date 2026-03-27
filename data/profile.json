@@ -1,0 +1,94 @@
+{
+  "personal": {
+    "name": "Sandeep Mohan",
+    "tagline": "A tech professional with strong family values, seeking a meaningful and balanced life partnership",
+    "photoUrl": "/profile-pic.jpg",
+    "location": "Thrissur, Kerala",
+    "about": "I am a calm, grounded, and practical individual with a modern outlook on life. I believe in maintaining a strong balance between career growth and family values. Coming from a close-knit, nuclear family with liberal values, I value mutual respect, trust, and open communication in relationships.",
+    "traits": [
+      "Calm and composed",
+      "Family-oriented",
+      "Modern thinker",
+      "Responsible and practical",
+      "Open-minded"
+    ],
+    "dob": "16 October 1996, 29 Yrs",
+    "height": "5'5\"",
+    "maritalStatus": "Never married",
+    "eatingHabits": "Non-vegetarian",
+    "physicalStatus": "Normal",
+    "motherTongue": "Malayalam"
+  },
+  "religious": {
+    "religion": "Hindu",
+    "caste": "Vishwakarma",
+    "subcaste": "Goldsmiths",
+    "star": "Anizham"
+  },
+  "professional": {
+    "title": "Frontend Developer",
+    "company": "StratAgile Pvt Ltd",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "story": "I am driven by a strong growth mindset. Transitioning into the tech industry, I have continuously honed my technical skills to build beautiful and efficient web applications. I believe continuous learning is key to success."
+  },
+  "family": {
+    "father": "Goldsmith",
+    "fatherName": "A T Mohanan",
+    "mother": "Homemaker",
+    "motherName": "P G Sheeja",
+    "sister": "Married, working as a Software Engineer in Finland",
+    "sisterName": "Soumya Prasanth",
+    "type": "Middle-class, nuclear family with liberal values"
+  },
+  "lifestyle": {
+    "interests": [
+      {
+        "name": "Travel & Exploring New Places",
+        "icon": "Plane"
+      },
+      {
+        "name": "Technology & Learning",
+        "icon": "Laptop"
+      },
+      {
+        "name": "Cars & Bikes Enthusiast",
+        "icon": "Car"
+      },
+      {
+        "name": "Social Media",
+        "icon": "Share2"
+      },
+      {
+        "name": "Gaming & Entertainment",
+        "icon": "Gamepad2"
+      }
+    ]
+  },
+  "gallery": [
+    "/img-1.jpg",
+    "/img-2.jpg",
+    "/img-3.jpg",
+    "/img-4.jpg"
+  ],
+  "expectations": {
+    "traits": [
+      "Well-educated",
+      "Kind-hearted",
+      "Understanding",
+      "Family-oriented",
+      "Supportive",
+      "Open-minded"
+    ],
+    "description": "I am looking for a well-educated partner, preferably a graduate who is working or willing to work in the future. I value kindness, understanding, and a positive family outlook. I believe mutual trust, care, and open communication form the foundation of a happy marriage. I have a liberal mindset, do not have caste preferences, and do not give importance to horoscope. I am seeking someone with a modern outlook and a positive approach to life."
+  },
+  "contact": {
+    "phone": "+91 9567525733",
+    "whatsapp": "+91 9567525733",
+    "email": "sandeepmohan99@gmail.com"
+  }
+}
