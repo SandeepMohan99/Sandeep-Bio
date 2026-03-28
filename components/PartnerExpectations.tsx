@@ -16,7 +16,7 @@ export default function PartnerExpectations({ data }: PartnerExpectationsProps) 
 
         <div className="relative z-10">
           <h2 className="text-3xl md:text-5xl font-semibold text-white tracking-tight leading-tight mb-8 text-balance">
-            Looking for a meaningful and <span className="text-[#D4AF37]">balanced life partnership</span>
+            Looking for a meaningful connection <span className="text-[#D4AF37]">that grows into a loving life partnership</span>
           </h2>
 
           <p className="text-slate-300 text-lg md:text-xl leading-relaxed max-w-2xl mx-auto mb-12">
@@ -38,12 +38,12 @@ export default function PartnerExpectations({ data }: PartnerExpectationsProps) 
           </div>
 
           <div className="flex justify-center border-t border-white/10 pt-10">
-            <a
-              href="/Sandeep_Bio.pdf"
+            <a 
+              href="/Sandeep_Bio.pdf" 
               download
-              className="flex items-center gap-3 bg-[#D4AF37] text-white px-10 py-4 rounded-full font-medium text-lg hover:bg-[#c5a030] transition-all shadow-xl hover:shadow-2xl transform hover:-translate-y-1"
+              className="flex items-center gap-2 md:gap-3 bg-[#D4AF37] text-white px-6 py-3 md:px-10 md:py-4 rounded-full font-medium text-base md:text-lg hover:bg-[#c5a030] transition-all shadow-xl hover:shadow-2xl transform hover:-translate-y-1"
             >
-              <Download size={22} />
+              <Download size={20} className="md:w-6 md:h-6" />
               <span>Get My Bio Data</span>
             </a>
           </div>

@@ -34,7 +34,13 @@
       "TypeScript",
       "Tailwind CSS"
     ],
-    "story": "I am driven by a strong growth mindset. Transitioning into the tech industry, I have continuously honed my technical skills to build beautiful and efficient web applications. I believe continuous learning is key to success."
+    "story": "I am driven by a strong growth mindset. Transitioning into the tech industry, I have continuously honed my technical skills to build beautiful and efficient web applications. I believe continuous learning is key to success.",
+    "location": "Kochi, Kakkanad",
+    "education": {
+      "degree": "Btech in Mechanical Engineering",
+      "university": "APJ Abdul Kalam Technological University",
+      "location": "Thrissur, Kerala"
+    }
   },
   "family": {
     "father": "Goldsmith",
@@ -84,11 +90,12 @@
       "Supportive",
       "Open-minded"
     ],
-    "description": "I am looking for a well-educated partner, preferably a graduate who is working or willing to work in the future. I value kindness, understanding, and a positive family outlook. I believe mutual trust, care, and open communication form the foundation of a happy marriage. I have a liberal mindset, do not have caste preferences, and do not give importance to horoscope. I am seeking someone with a modern outlook and a positive approach to life."
+    "description": "I am looking for a well-educated partner, preferably someone who is working or open to building a career. Qualities like kindness, understanding, and a positive family outlook are deeply valued. A strong belief in mutual trust, care, and open communication forms the foundation of a happy marriage. My approach to life is modern and liberal & I do not have caste preferences and place no importance on horoscopes, greater emphasis is placed on character and a positive approach to life."
   },
   "contact": {
     "phone": "+91 9567525733",
     "whatsapp": "+91 9567525733",
-    "email": "sandeepmohan99@gmail.com"
+    "email": "sandeepmohan99@gmail.com",
+    "instagram": "https://www.instagram.com/sandeepmohan_0096?igsh=Z20wcnNzOW9uc2R3"
   }
 }

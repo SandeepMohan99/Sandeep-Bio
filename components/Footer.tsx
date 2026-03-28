@@ -46,6 +46,37 @@ export default function Footer({ data }: FooterProps) {
                   <p className="text-[var(--color-text-main)] font-medium">{data.phone}</p>
                 </div>
               </a>
+
+              {data.instagram && (
+                <a 
+                  href={data.instagram}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-4 p-4 rounded-xl hover:bg-white border border-transparent hover:border-gray-100 hover:shadow-sm transition-all group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-slate-100 flex items-center justify-center text-slate-500 group-hover:bg-[#E1306C]/10 group-hover:text-[#E1306C] transition-colors">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="20"
+                      height="20"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    >
+                      <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                      <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                      <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+                    </svg>
+                  </div>
+                  <div>
+                    <p className="text-xs text-slate-400 font-medium uppercase">Instagram</p>
+                    <p className="text-[var(--color-text-main)] font-medium">@sandeepmohan_0096</p>
+                  </div>
+                </a>
+              )}
             </div>
           </div>
 

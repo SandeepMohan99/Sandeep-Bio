@@ -30,6 +30,12 @@ export interface ProfessionalInfo {
   company: string;
   skills: string[];
   story: string;
+  location: string;
+  education: {
+    degree: string;
+    university: string;
+    location: string;
+  };
 }
 
 export interface FamilyInfo {
@@ -55,6 +61,7 @@ export interface ContactInfo {
   phone: string;
   whatsapp: string;
   email: string;
+  instagram?: string;
 }
 
 export interface ProfileData {
