@@ -2,7 +2,7 @@
   "personal": {
     "name": "Sandeep Mohan",
     "tagline": "A tech professional with strong family values, seeking a meaningful and balanced life partnership",
-    "photoUrl": "/profile-pic.jpg",
+    "photoUrl": "/Profile Pic_1.jpg",
     "location": "Thrissur, Kerala",
     "about": "I am a calm, grounded, and practical individual with a modern outlook on life. I believe in maintaining a strong balance between career growth and family values. Coming from a close-knit, nuclear family with liberal values, I value mutual respect, trust, and open communication in relationships.",
     "traits": [
@@ -76,10 +76,13 @@
     ]
   },
   "gallery": [
+    "/img-5.jpg",
+    "/Profile Pic_1.jpg",
     "/img-1.jpg",
     "/img-2.jpg",
     "/img-3.jpg",
     "/img-4.jpg"
+    
   ],
   "expectations": {
     "traits": [
